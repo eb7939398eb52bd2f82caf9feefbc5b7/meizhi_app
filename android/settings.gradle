@@ -1,0 +1,3 @@
+rootProject.name = 'meizhi_app'
+
+include ':app'
